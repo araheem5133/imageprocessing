@@ -1,5 +1,5 @@
 # Image Processing Application
-Application provided as part of the CS470 class. All functions have been updated with optimized code to implement parallel processing and memory management, particularly circular buffering and cutting off and memory dumps caused by open arrays.
+Application skeleton provided as part of the CS470 class. All functions have been updated with my optimized code to implement parallel processing and memory management, particularly circular buffering and cutting off and memory dumps caused by open arrays.
 
 ## Installation
 In order to use, please install using the CS470_Installer.exe
